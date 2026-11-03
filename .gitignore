@@ -1,0 +1,29 @@
+# Environment & Secrets
+.env
+.env.local
+.env.*.local
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Output / generated files (optional, but keep user report / notes if needed or ignore temp files)
+# final_research_report.md
+# research_notes.json
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

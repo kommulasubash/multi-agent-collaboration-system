@@ -1,0 +1,4 @@
+crewai>=1.15.0
+crewai-tools>=1.15.0
+mcp>=1.30.0
+python-dotenv>=1.2.0
